@@ -33,3 +33,6 @@ Run the script with the following command:
 cd src
 python3 climateRoute.py --config config.json --gpx route.gpx
 ```
+
+## TODO
+Development of android application
