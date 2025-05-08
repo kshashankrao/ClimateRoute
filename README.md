@@ -22,7 +22,8 @@ ClimateRoute is a Python-based tool designed to process GPX route files and fetc
              "WEATHER_API_URL": "openweatherapi.org"
      }
      ```
-
+     Note - [Openweather's](https://openweathermap.org/) api key is required and a free version is also available.
+     
 4. Place your gpx file in the project directory.
 
 ## Usage
